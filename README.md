@@ -1,4 +1,11 @@
 ### Hi there 👋
+My name is Chingiz and I’m a creator. I am in love with creating and building new things from scratch and have found several outlets, including content creation (Youtube, TikTok), coding projects, and Telegram Blog where I share my life experience and knowledge. Here you can find all projects I have ever worked on. Explore!
+
+🌱 I’m currently learning C++ and Algorithmic Trading
+👯 I’m looking to collaborate on Mock Interviews
+⚙️ Current tech stack includes: React, Javascript, Nodejs, C++, Python, Java, Go, NoSQL (MongoDB / Firestore), and more...
+📫 How to reach me: @cheenv (Telegram)
+⚡ Fun fact: The moon on my avatar is actually is the sun. 
 
 <!--
 **chingizof/chingizof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
