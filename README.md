@@ -2,7 +2,7 @@
 My name is Chingiz and I’m a creator. I am in love with creating and building new things from scratch and have found several outlets, including content creation (Youtube, TikTok), coding projects, and Telegram Blog where I share my life experience and knowledge. Here you can find all projects I have ever worked on. Explore!
 
 - ⚙️ Current tech stack includes: Python, Go, C++, Javascript, Java
-- 📫 How to reach me: chingizof [at] gmail [dot] com || @cheenv (Telegram)
+- 📫 How to reach me: chingizof [at] gmail [dot] com
 - ⚡ Fun fact: I have 3 pets - cat, dog, and horse
 
 <!--
